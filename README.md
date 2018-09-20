@@ -5,7 +5,7 @@
 
 *A Hat in Time* is a cartoony collectathon platformer created by Jonas Kaerlev of **Gears for Breakfast**. It would fall more in line with the intermediate gamer. The player explores different worlds and must collect the Time Pieces. Each level ends when the player collects the Time Piece for that level. 
 
-There are also other things to collect such as Gifts, Tokens, and Pons. Pons are the in-game currency used to buy Badges. There are also Heart Pons which restore the player's health. If you collect all the Gifts in a set, you can unlock more levels. Tokens can be used to earn cosmetic changes for the player, their hats, or a new music track for worlds. After playing A Hat in Time, I found some aspects of the game that a tester would have looked at when testing the game.
+There are also other things to collect such as Relics, Tokens, and Pons. Pons are the in-game currency used to buy Badges. There are also Heart Pons which restore the player's health. If you collect all the Relics in a set, you can unlock more levels. Tokens can be used to earn cosmetic changes for the player, their hats, or a new music track for worlds. After playing A Hat in Time, I found some aspects of the game that a tester would have looked at when testing the game.
 
 ## What Needs Testing
 
