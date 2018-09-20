@@ -16,6 +16,8 @@ One function that would be looked at immediately is the player mode/selection. A
 
 A Hat in Time is a collectathon platformer created by Jonas Kaerlev of Gears for Breakfast. The player explores different worlds and must collect the Time Pieces. Each level ends when the player collects the Time Piece for that level. There are also other things to collect such as gifts, tokens, and pons. Pons are the in-game currency used to buy Badges. If you collect all the gifts in a set, you can unlock more levels. Tokens can be used to earn cosmetic changes for the player, their hats, or a new music track for worlds.
 
+## What Needs Testing
+
 A Hat in Time has some platforming elements that I think should be tested. These are the double, along with the single jump of course, walljumping, and wallrunning.
 
 One function that should be checked frequently is the different abilities that come with each hat. The player can equip different hats which give the player new abilities. It would be wise to always check that the hats do their proper power when equipped and only when the correct hat is equipped.
