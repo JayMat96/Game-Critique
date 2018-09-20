@@ -11,7 +11,9 @@ Name 3-5 aspects of the game you think should be tested and why?
 
 One function that should be checked frequently is the different abilities that come with each hat. The player can equip different hats which give the player new abilities. It would be wise to always check that the hats do their proper power when equipped and only when the correct hat is equipped.
 
-Another function that should be checked has to do with another equippable item called "Badges." These provide an additional ability or change to the overall gameplay alongwith the hats. There is one Badge that only affects one hat, and there are some that do not affect the hats' powers, but the player or the world around them. This should be tested so as to not negate any of the hats' powers or 
+Another function that should be checked has to do with another equippable item called "Badges." These provide an additional ability or change to the overall gameplay alongwith the hats. There is one Badge that only affects one hat, and there are some that do not affect the hats' powers, but the player or the world around them. This should be tested so as to not negate any of the hats' powers and that they work correctly.
+
+There is a small in-game store where the player can use in-game currency to buy Badges. There should be some testing done to make sure the Badges are not overpriced.
 
 Example: 
 
