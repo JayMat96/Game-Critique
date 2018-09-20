@@ -4,8 +4,9 @@ Critique of selected game and aspects that should be tested
 Review
 
 Type 1-2 paragraphs reviewing selected game. Your audience is the class, keep your review simple and understandable to a novice tester. Your task is to advise your classmates about the game and aspects that should be tested. Submit assignment via a link to a github markdown file hosted in your personal site. 
+ 
+A Hat in Time is a collectathon platformer created by Jonas Kaerlev of Gears for Breakfast.
 
-Give title of game, type of game and game designer/maker 
 Name 3-5 aspects of the game you think should be tested and why?
 Example: 
 
