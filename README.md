@@ -1,7 +1,7 @@
 # Game-Critique
-Critique of selected game and aspects that should be tested
+#### Critique of selected game and aspects that should be tested
 
-Review
+## Review
 
 Type 1-2 paragraphs reviewing selected game. Your audience is the class, keep your review simple and understandable to a novice tester. Your task is to advise your classmates about the game and aspects that should be tested. Submit assignment via a link to a github markdown file hosted in your personal site. 
  
