@@ -1,4 +1,4 @@
-# Game-Critique
+# Game-Critique: A Hat in Time
 #### Critique of A Hat in Time and aspects that should be tested
 
 ## Review
